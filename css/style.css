@@ -1,0 +1,12 @@
+@import url(menu.css);
+@import url(account.css);
+@import url(adv.css);
+@import url(users.css);
+@import url(wsfot.css);
+#video {
+    float: right;
+   text-align: center;
+    width: 100%;
+    padding-top: 20px;
+
+}

@@ -1,0 +1,23 @@
+#adv{
+  float: right;
+    text-align: right;
+    width: 100%;
+    padding-top: 20px;
+    color: #29529c;
+
+}
+.col-4 {
+     margin-bottom: 1%;
+   margin-top: 1.5%;
+    margin-right: 20%;
+    text-align: center;
+    float: right;
+    height: 140px; 
+
+    border: 2px solid #0096ff;
+    border-radius: 100%; 
+}
+
+.adv-text {
+    margin-top: 5px;
+}
