@@ -1,0 +1,74 @@
+#menu{
+    height: 90px;
+    width: 100%;
+       color: white;
+    background-color: whitesmoke;
+
+
+}
+#logo{
+    margin-top: 10px;
+    float: left;
+    font-size: 55px;
+    line-height: 60px;
+    padding-right: 20px;
+    color: #29529c;
+    background-color: whitesmoke;
+
+}
+
+
+.menu-all .menu-item {
+   background-color: whitesmoke;
+    float :right;
+    padding-right: 30px; 
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom:28px;
+    list-style-type: none;
+    line-height: 25px;
+
+
+
+}.menu-all .menu-item:hover{
+background-color: white;
+
+}
+.fa-home , .fa-users ,.fa-shopping-cart {
+
+
+    list-style-type: none;
+    line-height: 25px;
+  text-align: center;
+
+  transition: all 0.3s ease;
+  color: #29529c;
+
+}
+
+.search {
+    height: 10px;
+    float: right;
+    width: 50%;
+    list-style-type: none;
+    line-height: 25px;
+    background-color: white;
+
+}
+.fa-search {
+  color: #29529c;
+    float: right;
+    font-size: 30px;
+    margin-left: 10px;
+    padding-top: 10px
+}
+
+.fsearch {
+       padding-right: 30px; 
+    padding-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.fa-users{
+    cursor: pointer;
+}

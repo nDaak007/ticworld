@@ -1,0 +1,58 @@
+.col-5 {
+  width: 30%;
+    float: right;
+    color: white;
+
+}
+
+.FH {
+  color: yellow;
+}
+
+
+
+#wsfooter {
+    padding-top: 60px;
+      float: right;
+    padding-bottom: 50px;
+    margin-top:3%;
+   height: 100%;
+    width: 100%;
+    margin-left: 15%;
+    text-align: center;
+    background-image: url(../img/wsfot.png);
+
+
+}
+
+#gs {
+    padding-right: 10px;
+    padding-top: 1px;
+    width: 100%;
+    float: right;
+    font-size: 10px;
+    color: white;
+    background-color: #29529c;
+    text-align: right;
+}
+
+.ws-link {
+    color: white;
+}
+.ws-link:hover{
+    color: #29529c;
+}
+
+.fa-instagram,.fa-whatsapp,.fa-twitter {
+   margin: 5px;
+    color: white;
+}
+.fa-twitter:hover {
+color: aqua;
+}
+.fa-whatsapp:hover{
+    color: greenyellow;
+}
+.fa-instagram:hover{
+    color: deeppink;
+}
